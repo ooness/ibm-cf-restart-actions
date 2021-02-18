@@ -1,5 +1,5 @@
 
-name: IBM Cloud Foundry - V2Ray
+name: IBM restart-actions
 
 env:
   IBM_CF_API: https://api.us-south.cf.cloud.ibm.com
